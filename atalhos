@@ -1,0 +1,7 @@
+terraform init
+
+terraform plan - (mostra todas as alterações, mas sem aplicá-las)
+
+terraform apply -  ( efetivar as mudanças)
+
+terraform show  - Mostra como esta esta as configurações na instancia
