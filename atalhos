@@ -6,6 +6,8 @@ terraform apply -  ( efetivar as mudanças)
 
 terraform show  - Mostra como esta esta as configurações na instancia
 
+terraform refresh - 
+
 
 ---------------
 aws ec2 describe-security-groups
